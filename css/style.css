@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
 :root{
-    --main-color: #e38528;
+    --main-color: #4169E1;
 }
 
 *{
@@ -22,7 +22,7 @@ html{
 }
 
 body{
-    background: #fcf2e8;
+    background: #B0C4DE;
     padding-left: 30rem;
 }
 
@@ -295,19 +295,19 @@ header .follow a:hover{
 }
 
 .about .row-2 .skills .progress:nth-child(1) .bar span{
-    width: 95%;
+    width: 55%;
 }
 
 .about .row-2 .skills .progress:nth-child(2) .bar span{
-    width: 80%;
+    width: 20%;
 }
 
 .about .row-2 .skills .progress:nth-child(3) .bar span{
-    width: 75%;
+    width: 15%;
 }
 
 .about .row-2 .skills .progress:nth-child(4) .bar span{
-    width: 85%;
+    width: 25%;
 }
 
 .about .row-2 .box-container{
